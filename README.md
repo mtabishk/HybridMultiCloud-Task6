@@ -13,4 +13,4 @@ Task: Deploy the WordPress application on Kubernetes and AWS using terraform inc
 4. The WordPress application should be accessible from the public world if deployed on AWS or through workstation if deployed on Minikube.
 
 
-
+Article Link: https://www.linkedin.com/pulse/wordpress-deployment-aws-eks-cluster-mysql-rds-using-khanday
